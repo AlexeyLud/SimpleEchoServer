@@ -1,0 +1,4 @@
+com/alex/simpleechoserver/SimpleEchoServerApplicationTests.class
+com/alex/simpleechoserver/controller/ChangeRegisterControllerTest.class
+com/alex/simpleechoserver/service/CaseInvertorServiceTest.class
+com/alex/simpleechoserver/validate/LetterValidatorTest.class

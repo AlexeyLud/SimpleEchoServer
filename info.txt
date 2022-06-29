@@ -1,0 +1,10 @@
+Example
+
+Launch in terminal:
+java -jar target/{filename}.war
+
+Next in your browser:
+http://localhost:8080/api/echo?m=Hello
+
+Result in browser:
+hELLO

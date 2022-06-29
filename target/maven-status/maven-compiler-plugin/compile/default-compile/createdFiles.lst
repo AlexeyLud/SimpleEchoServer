@@ -1,0 +1,5 @@
+com/alex/simpleechoserver/SimpleEchoServerApplication.class
+com/alex/simpleechoserver/controller/ChangeRegisterController.class
+com/alex/simpleechoserver/service/CaseInvertorService.class
+com/alex/simpleechoserver/validate/LetterValidator.class
+com/alex/simpleechoserver/ServletInitializer.class
