@@ -1,7 +1,7 @@
 Example
 
 Launch in terminal:
-java -jar target/{filename}.war
+java -jar target/{name_file}.war
 
 Next in your browser:
 http://localhost:8080/api/echo?m=Hello
